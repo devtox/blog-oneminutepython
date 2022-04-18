@@ -47,4 +47,4 @@ To run a script you can type:
 python your_file.py
 ```
 
-
+### Install PyQt
