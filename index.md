@@ -35,7 +35,8 @@ sudo apt-get install python3
 This will install the latest version of Python 3; if you want to install a specific version, you can add its number after "python3," like this:
 
 ```bash
-sudo apt-get install python3.6```
+sudo apt-get install python3.6
+```
 
 Once the installation is finished, you can launch IDLE by typing "idle3" in the terminal.
 
