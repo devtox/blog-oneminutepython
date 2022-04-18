@@ -18,9 +18,10 @@ Additional instructions can be found at [https://docs.python.org/3/using/mac](ht
 
 If you want to install Python 3 on your Windows machine, there are a few steps you need to take. 
 
-First, go to the Python website at [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/). 
-
-Second, click on the download link for Windows under the heading "Download the latest Python 3 release." This will open a new page with a variety of download options. Choose the one that says "Windows x86-64 executable installer" and wait for it to finish downloading. Once it's done, run the installer by double-clicking on it. Follow the prompts and choose all of the default options. 
+1. go to the Python website at [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/). 
+2. click on the download link for Windows under the heading "Download the latest Python 3 release." This will open a new page with a variety of download options. 
+3. Choose the one that says "Windows x86-64 executable installer" and wait for it to finish downloading. 
+4. Once it's done, run the installer by double-clicking on it. Follow the prompts and choose all of the default options. 
 
 After Python is finished installing, open your Start menu and search for "IDLE (Python 3.7 64-bit)". This is a program that comes with Python and allows you to write and execute code in a graphical interface. Double-click on it to launch IDLE; once it's open, you can start writing code!
 
